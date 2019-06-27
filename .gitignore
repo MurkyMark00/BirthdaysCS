@@ -1,0 +1,5 @@
+*.exe
+*.csv
+/bin
+/obj
+/.vscode
